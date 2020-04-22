@@ -1,0 +1,9 @@
+Owned Area - Building Inventory 2,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+District,Fin-Sub,Chrgbl Fin No,PO Name,Unit Name,Property Address,County,City,ST,ZIP Code,Property Status,Ownership,FDB ID (All),AMS Locale Key (All),FDB Facility Type (All),FDB Facility Subtype (All),Building Ownership Description,Land Desc,Space Certified Indicator,Bldg Occu Date,Int Sq Ft
+Honolulu,130500-G07,130500,BARRIGADA,MAIN OFFICE/P&DF,489 ARMY DR,GUAM,BARRIGADA,GU,96913-9998,Active,Owned,1439647,Z12077,Post Office,Branch,"USPS Building, Const. by USPS","USPS Land, Not Prev. Leased",Yes,5/1/1978,"73,998"
+Honolulu,130500-G07,130500,BARRIGADA,MAIN OFFICE/P&DF,489 ARMY DR,GUAM,BARRIGADA,GU,96913-9998,Active,Owned,1441467,Z17891,Mail Processing,Processing and Distribution Center/Facility (PDC/PDF),"USPS Building, Const. by USPS","USPS Land, Not Prev. Leased",Yes,5/1/1978,"73,998"
+Honolulu,130500-G09,130502,BARRIGADA,TAMUNING BRANCH,143 EDWARD T CALVO MEMORIAL PKWY,GUAM,TAMUNING,GU,96913-3598,Active,Owned,1439653,Z12100,Post Office,Finance Branch,"USPS Building, Const. by USPS",Land Data on separate record,No,10/1/1987,"12,503"
+Total,,,,,,,,,,,,,,,,,,,,"160,499"
+Count,,,,,,,,,,,,,,,,,,,,3

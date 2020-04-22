@@ -1,0 +1,12 @@
+Owned Area - Building Inventory 2,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+District,Fin-Sub,Chrgbl Fin No,PO Name,Unit Name,Property Address,County,City,ST,ZIP Code,Property Status,Ownership,FDB ID (All),AMS Locale Key (All),FDB Facility Type (All),FDB Facility Subtype (All),Building Ownership Description,Land Desc,Space Certified Indicator,Bldg Occu Date,Int Sq Ft
+Caribbean,522003-G01,522003,CHARLOTTE AMALIE,EMANCIPATION GDN.STA,5046 NORRE GADE,VIRGIN ISLANDS U,ST THOMAS,VI,00802-9995,Active,Owned,1434009,V19865,Post Office,Station,"USPS Building, Transferred","USPS Land, Transferred",Yes,7/1/1938,"14,563"
+Caribbean,522000-G02,522000,CHARLOTTE AMALIE,MAIN OFFICE,9846 ESTATE THOMAS,VIRGIN ISLANDS U,ST THOMAS,VI,00802-9998,Active,Owned,1357689,V17301,Post Office,Main Post Office,"USPS Building, Const. by USPS","USPS Land, Not Prev. Leased",Yes,8/1/1976,"35,898"
+Caribbean,522000-G04,522000,CHARLOTTE AMALIE,VETERANS DRIVE ANNEX,6500 VETERANS DR,VIRGIN ISLANDS U,ST THOMAS,VI,00802-9992,Active,Owned,1385902,V17312,Post Office,Station,Unknown,Unknown,Yes,9/1/1991,"13,376"
+Caribbean,523000-G02,523000,CHRISTIANSTED,MAIN OFFICE,1104 ESTATE RICHMOND,VIRGIN ISLANDS U,CHRISTIANSTED,VI,00820-9998,Active,Owned,1358006,V17302,Post Office,Main Post Office,"USPS Building, Prev. Leased","USPS Land, Prev. Leased",Yes,8/1/1966,"9,896"
+Caribbean,525000-G01,525000,FREDERIKSTED,MAIN OFFICE,1 MARS HL,VIRGIN ISLANDS U,FREDERIKSTED,VI,00840-9998,Active,Owned,1364078,V17305,Post Office,Main Post Office,"USPS Building, Prev. Leased","USPS Land, Prev. Leased",No,3/1/1995,"6,845"
+Caribbean,526000-G01,526000,KINGSHILL,MAIN OFFICE,2 EST LA REINE,VIRGIN ISLANDS U,KINGSHILL,VI,00850-9998,Active,Owned,1369095,V17306,Post Office,Main Post Office,"USPS Building, Const. by USPS","USPS Land, Not Prev. Leased",Yes,9/1/1974,"23,600"
+Total,,,,,,,,,,,,,,,,,,,,"104,178"
+Count,,,,,,,,,,,,,,,,,,,,6

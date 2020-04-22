@@ -1,0 +1,7 @@
+Owned Area - Building Inventory 2,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+District,Fin-Sub,Chrgbl Fin No,PO Name,Unit Name,Property Address,County,City,ST,ZIP Code,Property Status,Ownership,FDB ID (All),AMS Locale Key (All),FDB Facility Type (All),FDB Facility Subtype (All),Building Ownership Description,Land Desc,Space Certified Indicator,Bldg Occu Date,Int Sq Ft
+Honolulu,584000-G02,584000,SAIPAN,MAIN OFFICE,1 CHALAN KANOA VLG,MARIANA ISLANDS,SAIPAN,MP,96950-9996,Active,Owned,1380461,Z12999,Post Office,Main Post Office,"USPS Building, Const. by USPS",Land Data on separate record,Yes,11/1/1999,"14,550"
+Total,,,,,,,,,,,,,,,,,,,,"14,550"
+Count,,,,,,,,,,,,,,,,,,,,1
