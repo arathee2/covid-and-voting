@@ -23,19 +23,21 @@ columns <- c('district', 'fin_sub', 'chargeable_fin_number', 'po_name',
              'space_certified_indicator', 'building_occurrence_date',
              'area_sq_ft')
 
-data_directory <- '/Users/amandeeprathee/work/corona-visualization/v2/data/'
+data_directory <- '/Users/PJ/Documents/covid-and-voting/data'
 csv_names <- list.files(data_directory)
 
 setwd(data_directory)
+
 data <- read_csv("ak.csv", col_names=columns, skip=4)
+
 for (csv_file in csv_names[2:length(csv_names)]) {
     new_data <- read_csv(csv_file, col_names=columns, skip=4)
     data <- rbind(data, new_data)
 }
 
-str(data)
-head(data)
-#write.csv(data, file="./data.csv", quote = FALSE, row.names = FALSE)
+#str(data)
+#head(data)
+write.csv(data, file="./data_final.csv", quote = FALSE, row.names = FALSE)
 
 # join state and county
 data$county <- str_to_title(data$county); head(data$county)
